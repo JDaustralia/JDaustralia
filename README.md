@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JDaustralia
-- 👀 I’m interested in Fine-tuning and complex adaptive systems
+- 👀 I’m interested in Fine-tuning local LLM's and complex adaptive systems
 - 🌱 I primarily use .py and .cu
 - 💞️ I’m looking to collaborate on world building models
 - 📫 Message me if you can
