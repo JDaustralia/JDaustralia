@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JDaustralia
-- 👀 I’m interested in complex adaptive systems
-- 🌱 I’m currently learning through hands-on exposure to python based models from monte carlo, random forest machine learning to MLP's and beyond.
+- 👀 I’m interested in Fine-tuning and complex adaptive systems
+- 🌱 I primarily use .py and .cu
 - 💞️ I’m looking to collaborate on world building models
 - 📫 Message me if you can
 
